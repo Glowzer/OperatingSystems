@@ -1,0 +1,4 @@
+﻿  taskB.cpp
+d:\учёба\oc\labs\lab2\taskb\taskb\taskb\taskb.cpp(235): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  taskB.vcxproj -> D:\Учёба\OC\Labs\lab2\taskB\taskB\Debug\taskB.exe
+  taskB.vcxproj -> D:\Учёба\OC\Labs\lab2\taskB\taskB\Debug\taskB.pdb (Partial PDB)
